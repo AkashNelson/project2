@@ -5,6 +5,7 @@ public class empoloyeeInfo {
 		System.out.println("your employeeId "+pn);
 		System.out.println("your name "+name);
 		System.out.println("your salary "+d);
+		System.out.println("bashout mani");
 
 	}
 public static void main(String[] args) {
